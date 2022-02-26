@@ -22,7 +22,16 @@ function AboutCard() {
             ⚡ Apart from this, I have done courses on Artificial Intelligence,Data Analytics,Data Structures and Algorithms and Full Stack Development .
  
           </p>
-          
+          <h1>My Introduction in Spanish!!! (shhh.. 🤫 I've Just Started Learning Spanish!)</h1>
+<p> Hola a todos, soy Mrigank Sachan, soy un ingeniero de último año de Lucknow, India.
+
+Estoy cursando mi licenciatura en informática e ingeniería con especialización en ciencia de datos del Instituto de Tecnología de Vellore, Vellore.
+
+
+⚡ He estudiado temas básicos de ingeniería de software como DS, Algoritmos, DBMS, OS, etc.
+
+
+⚡ Aparte de esto, he realizado cursos de Inteligencia Artificial, Analítica de Datos, Estructuras de Datos y Algoritmos y Desarrollo Full Stack.</p>
               </blockquote>
       </Card.Body>
     </Card>
