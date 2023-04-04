@@ -23,6 +23,7 @@ function AboutCard() {
  
           </p>
           
+                                             <br /><br />
               </blockquote>
       </Card.Body>
     </Card>
